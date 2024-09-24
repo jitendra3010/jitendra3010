@@ -24,6 +24,7 @@ Programming Languages & Tools
 <li>BI Tools: Power BI, Tableau</li>
 <li>Development Tools: Jupyter Notebook, Visual Studio, IntelliJ, Postman, Git, REST APIs</li>
 Methodologies:
+
 - Agile Development
 - Data Engineering & ETL
 - Dashboard Development & Business Intelligence
