@@ -92,5 +92,5 @@ GPA: 3.46/4.00
 
 If you're interested in collaborating or learning more about my work, feel free to reach out!
 📧 Email: jitendra3010@gmail.com
-💼 LinkedIn
-🌐 GitHub
+💼 LinkedIn: https://www.linkedin.com/in/jitendra3010/
+🌐 GitHub: https://github.com/jitendra3010
