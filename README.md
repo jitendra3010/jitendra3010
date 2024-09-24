@@ -23,7 +23,7 @@ Programming Languages & Tools
 <li>Cloud: AWS, Microsoft Azure, Oracle Cloud</li>
 <li>BI Tools: Power BI, Tableau</li>
 <li>Development Tools: Jupyter Notebook, Visual Studio, IntelliJ, Postman, Git, REST APIs</li>
-
+<t></t>
 Methodologies:
 
 - Agile Development
