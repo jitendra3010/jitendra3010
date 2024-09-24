@@ -32,42 +32,42 @@ Cross-Functional Collaboration & Stakeholder Communication
 
 💻 **Work Experience**
 
-Machine Learning Research Analyst
+**Machine Learning Research Analyst**
 DePaul CoBaab Lab (01/2024 – Present)
 
 Leading experiments to evaluate the effectiveness of ML models in detecting fractures and edema.
 Developed CNN-based pipelines in Python, improving model accuracy by 75%.
 Collaborating with research teams to develop scalable machine learning solutions for medical imaging.
 
-Data Scientist
+**Data Scientist**
 DePaul CoBaab Lab (06/2023 – 09/2023)
 
 Conducted advanced analytics on gene expression data, utilizing PCA and machine learning models.
 Improved decision-making by visualizing insights with Matplotlib and Seaborn.
 
-Principal Application Engineer
+**Principal Application Engineer**
 Oracle (05/2014 – 11/2019)
 
 Spearheaded data-driven solutions for Oracle Cloud Services, saving 1.5 hours of daily manual effort.
 Automated reporting and improved operational efficiency, resulting in a 10% increase in revenue.
 
-Technology Analyst
+**Technology Analyst**
 Infosys (06/2009 – 05/2014)
 
 Optimized data analysis pipelines, improving client decision-making and operational efficiency by 70%.
 
 🚀 **Projects**
 
-Lane and Curve Detection for Autonomous Vehicles
+- Lane and Curve Detection for Autonomous Vehicles
 Developed a real-time image processing pipeline using OpenCV and deep learning models to enhance lane detection and improve autonomous vehicle navigation.
 
-Gesture Recognition with Hybrid 3D Pooling CNN
+- Gesture Recognition with Hybrid 3D Pooling CNN
 Created a gesture recognition system for smart TVs using a 3D pooling CNN that achieved high accuracy in low-resolution environments.
 
-Text-to-Image Generation for E-Commerce
+- Text-to-Image Generation for E-Commerce
 Developed a generative AI model using Stable Diffusion, transforming text descriptions into photorealistic product images for e-commerce.
 
-Heart Attack Prediction
+- Heart Attack Prediction
 Built a predictive model with 84% accuracy to assess heart attack likelihood using advanced machine learning and statistical techniques.
 
 🎓 **Education**
