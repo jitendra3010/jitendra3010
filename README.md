@@ -15,9 +15,9 @@ I have extensive experience in leading projects, including medical image analysi
 🛠️ **Skills**
 
 Programming Languages & Tools
-Languages: Python, R, Java, SQL, PL/SQL
-Databases: MySQL, PostgreSQL
-Machine Learning: Supervised & Unsupervised Learning, Predictive Modeling, PCA, Regression, Dimensionality Reduction
+<li>Languages: Python, R, Java, SQL, PL/SQL</li>
+<li>Databases: MySQL, PostgreSQL</li>
+</li>Machine Learning: Supervised & Unsupervised Learning, Predictive Modeling, PCA, Regression, Dimensionality Reduction</li>
 Deep Learning: CNN, LLM, Generative AI
 Data Science Tools: NumPy, pandas, scikit-learn, PyTorch, TensorFlow, Matplotlib, Seaborn
 Cloud: AWS, Microsoft Azure, Oracle Cloud
@@ -35,26 +35,30 @@ Cross-Functional Collaboration & Stakeholder Communication
 **Machine Learning Research Analyst**
 DePaul CoBaab Lab (01/2024 – Present)
 
-Leading experiments to evaluate the effectiveness of ML models in detecting fractures and edema.
-Developed CNN-based pipelines in Python, improving model accuracy by 75%.
-Collaborating with research teams to develop scalable machine learning solutions for medical imaging.
+- Leading experiments to evaluate the effectiveness of ML models in detecting fractures and edema.
+- Developed CNN-based pipelines in Python, improving model accuracy by 75%.
+- Collaborating with research teams to develop scalable machine learning solutions for medical imaging.
 
 **Data Scientist**
 DePaul CoBaab Lab (06/2023 – 09/2023)
 
-Conducted advanced analytics on gene expression data, utilizing PCA and machine learning models.
-Improved decision-making by visualizing insights with Matplotlib and Seaborn.
+- Conducted advanced analytics on gene expression data, utilizing PCA and machine learning models.
+- Improved decision-making by visualizing insights with Matplotlib and Seaborn.
 
 **Principal Application Engineer**
 Oracle (05/2014 – 11/2019)
 
-Spearheaded data-driven solutions for Oracle Cloud Services, saving 1.5 hours of daily manual effort.
-Automated reporting and improved operational efficiency, resulting in a 10% increase in revenue.
+- Led a team in the development of data-driven solutions for Oracle Cloud Services, implementing RESTful web services with Postman for robust testing and user data protection using OAuth2.
+- Automated reporting processes and developed BI dashboards, saving 1.5 hours of manual effort daily and significantly improving operational efficiency.
+- Improved revenue by 10% through successful deployment of a B2B messaging solution and data-driven enhancements.
+- Collaborated cross-functionally with business and technical teams to design scalable solutions, boosting overall productivity and customer satisfaction.
 
 **Technology Analyst**
 Infosys (06/2009 – 05/2014)
 
-Optimized data analysis pipelines, improving client decision-making and operational efficiency by 70%.
+- Built and optimized data analysis pipelines, providing critical insights for financial decision-making to clients like BOFA and AMEX.
+- Spearheaded a PL/SQL-driven ETL process handling over 5 million records, improving operational efficiency by 70%.
+- Designed and deployed cost-saving web applications and automated data processes, contributing to enhanced business outcomes for key clients.
 
 🚀 **Projects**
 
