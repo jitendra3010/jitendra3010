@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Jitendra Kumar Mishra**
+## Jitendra Kumar Mishra
 
 Machine Learning Research Analyst | Data Scientist | Business Intelligence
 Location: Chicago, IL
@@ -11,6 +11,12 @@ Location: Chicago, IL
 I am a Machine Learning Research Analyst and Data Scientist with a passion for using data-driven insights to solve complex problems. Currently pursuing a Master of Science in Data Science at DePaul University, I specialize in areas like machine learning, deep learning, and data analysis. My work focuses on building scalable solutions for medical imaging, predictive modeling, and business intelligence systems.
 
 I have extensive experience in leading projects, including medical image analysis, autonomous vehicle lane detection, and generative AI. I have worked with technologies like Python, SQL, AWS, and TensorFlow, and I am skilled in deploying models for real-world applications.
+
+With over a decade of experience in the tech industry, I have held leadership roles at Oracle and Infosys, where I led teams in the development of data-driven solutions for large-scale enterprise applications. At Oracle, I spearheaded cloud-based solutions, increasing operational efficiency and improving revenue streams by 10%. At Infosys, I optimized data pipelines and ETL processes, enhancing efficiency by 70% for financial services clients like BOFA and AMEX.
+
+I’m driven by the intersection of data science and technology, continually working on innovative solutions to enhance decision-making and business outcomes.
+
+
 
 🛠️ **Skills**
 
@@ -23,9 +29,8 @@ Programming Languages & Tools
 <li>Cloud: AWS, Microsoft Azure, Oracle Cloud</li>
 <li>BI Tools: Power BI, Tableau</li>
 <li>Development Tools: Jupyter Notebook, Visual Studio, IntelliJ, Postman, Git, REST APIs</li>
-<t></t>
-Methodologies:
-
+<br>
+Methodologies:<br>
 - Agile Development
 - Data Engineering & ETL
 - Dashboard Development & Business Intelligence
@@ -35,20 +40,20 @@ Methodologies:
 
 💻 **Work Experience**
 
-**Machine Learning Research Analyst**
+**Machine Learning Research Analyst**<br>
 DePaul CoBaab Lab (01/2024 – Present)
 
 - Leading experiments to evaluate the effectiveness of ML models in detecting fractures and edema.
 - Developed CNN-based pipelines in Python, improving model accuracy by 75%.
 - Collaborating with research teams to develop scalable machine learning solutions for medical imaging.
 
-**Data Scientist**
+**Data Scientist**<br>
 DePaul CoBaab Lab (06/2023 – 09/2023)
 
 - Conducted advanced analytics on gene expression data, utilizing PCA and machine learning models.
 - Improved decision-making by visualizing insights with Matplotlib and Seaborn.
 
-**Principal Application Engineer**
+**Principal Application Engineer**<br>
 Oracle (05/2014 – 11/2019)
 
 - Led a team in the development of data-driven solutions for Oracle Cloud Services, implementing RESTful web services with Postman for robust testing and user data protection using OAuth2.
@@ -56,7 +61,7 @@ Oracle (05/2014 – 11/2019)
 - Improved revenue by 10% through successful deployment of a B2B messaging solution and data-driven enhancements.
 - Collaborated cross-functionally with business and technical teams to design scalable solutions, boosting overall productivity and customer satisfaction.
 
-**Technology Analyst**
+**Technology Analyst**<br>
 Infosys (06/2009 – 05/2014)
 
 - Built and optimized data analysis pipelines, providing critical insights for financial decision-making to clients like BOFA and AMEX.
@@ -79,14 +84,14 @@ Built a predictive model with 84% accuracy to assess heart attack likelihood usi
 
 🎓 **Education**
 
-Master of Science in Data Science
-DePaul University, Chicago, IL
-GPA: 4.00/4.00
-Expected Graduation: Nov 2024
+Master of Science in Data Science<br>
+DePaul University, Chicago, IL<br>
+GPA: 4.00/4.00<br>
+Expected Graduation: Nov 2024<br>
 
-Bachelor of Technology in Information Technology
-Biju Patnaik University of Technology, India
-GPA: 3.46/4.00
+Bachelor of Technology in Information Technology<br>
+Biju Patnaik University of Technology, India<br>
+GPA: 3.46/4.00<br>
 
 📫 Get in Touch
 
