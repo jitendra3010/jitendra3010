@@ -28,9 +28,9 @@ Programming Languages & Tools
 <li>Data Science Tools: NumPy, pandas, scikit-learn, PyTorch, TensorFlow, Matplotlib, Seaborn</li>
 <li>Cloud: AWS, Microsoft Azure, Oracle Cloud</li>
 <li>BI Tools: Power BI, Tableau</li>
-<li>Development Tools: Jupyter Notebook, Visual Studio, IntelliJ, Postman, Git, REST APIs</li>
-<br>
-Methodologies:<br>
+<li>Development Tools: Jupyter Notebook, Visual Studio, IntelliJ, Postman, Git, REST APIs</li><br>
+Methodologies:
+
 - Agile Development
 - Data Engineering & ETL
 - Dashboard Development & Business Intelligence
