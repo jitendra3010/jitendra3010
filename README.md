@@ -17,18 +17,18 @@ I have extensive experience in leading projects, including medical image analysi
 Programming Languages & Tools
 <li>Languages: Python, R, Java, SQL, PL/SQL</li>
 <li>Databases: MySQL, PostgreSQL</li>
-</li>Machine Learning: Supervised & Unsupervised Learning, Predictive Modeling, PCA, Regression, Dimensionality Reduction</li>
-Deep Learning: CNN, LLM, Generative AI
-Data Science Tools: NumPy, pandas, scikit-learn, PyTorch, TensorFlow, Matplotlib, Seaborn
-Cloud: AWS, Microsoft Azure, Oracle Cloud
-BI Tools: Power BI, Tableau
-Development Tools: Jupyter Notebook, Visual Studio, IntelliJ, Postman, Git, REST APIs
-Methodologies
-Agile Development
-Data Engineering & ETL
-Dashboard Development & Business Intelligence
-Cloud Computing
-Cross-Functional Collaboration & Stakeholder Communication
+<li>Machine Learning: Supervised & Unsupervised Learning, Predictive Modeling, PCA, Regression, Dimensionality Reduction</li>
+<li>Deep Learning: CNN, LLM, Generative AI</li>
+<li>Data Science Tools: NumPy, pandas, scikit-learn, PyTorch, TensorFlow, Matplotlib, Seaborn</li>
+<li>Cloud: AWS, Microsoft Azure, Oracle Cloud</li>
+<li>BI Tools: Power BI, Tableau</li>
+<li>Development Tools: Jupyter Notebook, Visual Studio, IntelliJ, Postman, Git, REST APIs</li>
+Methodologies:
+- Agile Development
+- Data Engineering & ETL
+- Dashboard Development & Business Intelligence
+- Cloud Computing
+- Cross-Functional Collaboration & Stakeholder Communication
 
 💻 **Work Experience**
 
