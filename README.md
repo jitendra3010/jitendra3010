@@ -5,6 +5,7 @@
 Machine Learning Research Analyst | Data Scientist | Business Intelligence
 Location: Chicago, IL
 
+<img decoding="async" src="https://badges.marquiswhoswho.com/Badge/honoredlistee/005516c1f6da49f38b5afc8ddd9b029f86279c6ea48247519378eb787ccfd024" alt="Marquis Badge" width="130px" height="130px">
 
 👋 **About Me**
 
