@@ -41,29 +41,28 @@ Methodologies:
 
 💻 **Work Experience**
 
-**Machine Learning Research Analyst**<br>
-DePaul CoBaab Lab (01/2024 – Present)
+**DePaul CoBaab Lab (06/2023 – Present)**<br>
+Machine Learning Research Analyst
 
 - Leading experiments to evaluate the effectiveness of ML models in detecting fractures and edema.
 - Developed CNN-based pipelines in Python, improving model accuracy by 75%.
 - Collaborating with research teams to develop scalable machine learning solutions for medical imaging.
 
-**Data Scientist**<br>
-DePaul CoBaab Lab (06/2023 – 09/2023)
+Data Scientist<br>
 
 - Conducted advanced analytics on gene expression data, utilizing PCA and machine learning models.
 - Improved decision-making by visualizing insights with Matplotlib and Seaborn.
 
-**Principal Application Engineer**<br>
-Oracle (05/2014 – 11/2019)
+**Oracle (05/2014 – 11/2019)**<br>
+Principal Application Engineer
 
 - Led a team in the development of data-driven solutions for Oracle Cloud Services, implementing RESTful web services with Postman for robust testing and user data protection using OAuth2.
 - Automated reporting processes and developed BI dashboards, saving 1.5 hours of manual effort daily and significantly improving operational efficiency.
 - Improved revenue by 10% through successful deployment of a B2B messaging solution and data-driven enhancements.
 - Collaborated cross-functionally with business and technical teams to design scalable solutions, boosting overall productivity and customer satisfaction.
 
-**Technology Analyst**<br>
-Infosys (06/2009 – 05/2014)
+**Infosys (06/2009 – 05/2014)**<br>
+Technology Analyst
 
 - Built and optimized data analysis pipelines, providing critical insights for financial decision-making to clients like BOFA and AMEX.
 - Spearheaded a PL/SQL-driven ETL process handling over 5 million records, improving operational efficiency by 70%.
