@@ -41,7 +41,7 @@ Methodologies:
 
 💻 **Work Experience**
 
-**DePaul CoBaab Lab (06/2023 – Present)**<br>
+**DePaul CoBaab Lab (01/2023 – Present)**<br>
 Machine Learning Research Analyst
 
 - Leading experiments to evaluate the effectiveness of ML models in detecting fractures and edema.
