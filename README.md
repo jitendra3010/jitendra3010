@@ -42,31 +42,20 @@ Methodologies:
 💻 **Work Experience**
 
 **DePaul CoBaab Lab (01/2023 – Present)**<br>
-Machine Learning Research Analyst
+Data Scientist, ML Research Analyst
 
-- Leading experiments to evaluate the effectiveness of ML models in detecting fractures and edema.
-- Developed CNN-based pipelines in Python, improving model accuracy by 75%.
-- Collaborating with research teams to develop scalable machine learning solutions for medical imaging.
-
-Data Scientist<br>
-
-- Conducted advanced analytics on gene expression data, utilizing PCA and machine learning models.
-- Improved decision-making by visualizing insights with Matplotlib and Seaborn.
+- Designed and deployed predictive and prescriptive machine learning models using Python (sci-kit-learn, TensorFlow, pyTorch, XGBoost) and optimized hyperparameters with Grid SearchCV and Randomized SearchCV, resulting in a 25% increase in customer acquisition rates.
+- Led investigations into large volumes of imaging data while applying cutting-edge analytics tools tailored specifically for health technology evaluations aimed at minimizing redundancies spotted during stakeholder meetings held bi-weekly.
+- Built robust Deep Learning and CNN models for medical image predictions, achieving a 16% improvement in accuracy over baseline.
+- Pioneered advancements leveraging artificial intelligence tools focused on entity recognition tasks which fine-tuned NLP pipelines, directly addressing key operational bottlenecks identified as critical obstacles through stakeholder feedback sessions conducted bi-weekly.
+- Formulated robust statistical methodologies integrating PCA to streamline dimensionality reduction processes; applied sophisticated visualizations through Matplotlib and Seaborn, resulting in quicker insights that Enriched project timelines by 25%.
 
 **Oracle (05/2014 – 11/2019)**<br>
-Principal Application Engineer
-
-- Led a team in the development of data-driven solutions for Oracle Cloud Services, implementing RESTful web services with Postman for robust testing and user data protection using OAuth2.
-- Automated reporting processes and developed BI dashboards, saving 1.5 hours of manual effort daily and significantly improving operational efficiency.
-- Improved revenue by 10% through successful deployment of a B2B messaging solution and data-driven enhancements.
-- Collaborated cross-functionally with business and technical teams to design scalable solutions, boosting overall productivity and customer satisfaction.
+Principal Application Engineer - Data Scientist
 
 **Infosys (06/2009 – 05/2014)**<br>
-Technology Analyst
+Data Analyst
 
-- Built and optimized data analysis pipelines, providing critical insights for financial decision-making to clients like BOFA and AMEX.
-- Spearheaded a PL/SQL-driven ETL process handling over 5 million records, improving operational efficiency by 70%.
-- Designed and deployed cost-saving web applications and automated data processes, contributing to enhanced business outcomes for key clients.
 
 🚀 **Projects**
 
