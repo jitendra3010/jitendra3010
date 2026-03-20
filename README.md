@@ -40,8 +40,10 @@ Methodologies:
   
 
 💻 **Work Experience**
+**Northern Trust (02/2025 – Present)**<br>
+Data Science Analyst
 
-**DePaul CoBaab Lab (01/2023 – Present)**<br>
+**DePaul CoBaab Lab (01/2023 – 12/2024)**<br>
 Data Scientist, ML Research Analyst
 
 - Designed and deployed predictive and prescriptive machine learning models using Python (sci-kit-learn, TensorFlow, pyTorch, XGBoost) and optimized hyperparameters with Grid SearchCV and Randomized SearchCV, resulting in a 25% increase in customer acquisition rates.
