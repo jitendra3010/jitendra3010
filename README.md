@@ -40,17 +40,12 @@ Methodologies:
   
 
 💻 **Work Experience**
+
 **Northern Trust (02/2025 – Present)**<br>
 Data Science Analyst
 
 **DePaul CoBaab Lab (01/2023 – 12/2024)**<br>
 Data Scientist, ML Research Analyst
-
-- Designed and deployed predictive and prescriptive machine learning models using Python (sci-kit-learn, TensorFlow, pyTorch, XGBoost) and optimized hyperparameters with Grid SearchCV and Randomized SearchCV, resulting in a 25% increase in customer acquisition rates.
-- Led investigations into large volumes of imaging data while applying cutting-edge analytics tools tailored specifically for health technology evaluations aimed at minimizing redundancies spotted during stakeholder meetings held bi-weekly.
-- Built robust Deep Learning and CNN models for medical image predictions, achieving a 16% improvement in accuracy over baseline.
-- Pioneered advancements leveraging artificial intelligence tools focused on entity recognition tasks which fine-tuned NLP pipelines, directly addressing key operational bottlenecks identified as critical obstacles through stakeholder feedback sessions conducted bi-weekly.
-- Formulated robust statistical methodologies integrating PCA to streamline dimensionality reduction processes; applied sophisticated visualizations through Matplotlib and Seaborn, resulting in quicker insights that Enriched project timelines by 25%.
 
 **Oracle (05/2014 – 11/2019)**<br>
 Principal Application Engineer - Data Scientist
