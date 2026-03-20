@@ -9,11 +9,11 @@ Location: Chicago, IL
 
 👋 **About Me**
 
-I am a Machine Learning Research Analyst and Data Scientist with a passion for using data-driven insights to solve complex problems. Currently pursuing a Master of Science in Data Science at DePaul University, I specialize in areas like machine learning, deep learning, and data analysis. My work focuses on building scalable solutions for medical imaging, predictive modeling, and business intelligence systems.
+I am a Machine Learning Research Analyst and Data Scientist with a passion for using data-driven insights to solve complex problems. I specialize in areas like machine learning, deep learning, and data analysis. My work focuses on building scalable solutions for medical imaging, predictive modeling, and business intelligence systems.
 
 I have extensive experience in leading projects, including medical image analysis, autonomous vehicle lane detection, and generative AI. I have worked with technologies like Python, SQL, AWS, and TensorFlow, and I am skilled in deploying models for real-world applications.
 
-With over a decade of experience in the tech industry, I have held leadership roles at Oracle and Infosys, where I led teams in the development of data-driven solutions for large-scale enterprise applications. At Oracle, I spearheaded cloud-based solutions, increasing operational efficiency and improving revenue streams by 10%. At Infosys, I optimized data pipelines and ETL processes, enhancing efficiency by 70% for financial services clients like BOFA and AMEX.
+With over a decade of experience in the tech industry, I have held leadership roles at Northertn Trust, Oracle and Infosys, where I led teams in the development of data-driven solutions for large-scale enterprise applications. At previous roles I spearheaded cloud-based solutions, increasing operational efficiency and improving revenue streams by 10%. I optimized data pipelines and ETL processes, enhancing efficiency by 70% for financial services clients like BOFA and AMEX.
 
 I’m driven by the intersection of data science and technology, continually working on innovative solutions to enhance decision-making and business outcomes.
 
